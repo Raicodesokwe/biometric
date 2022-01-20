@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1040359017926",
+    "firebase_url": "https://projectdojo-c033f-default-rtdb.firebaseio.com",
+    "project_id": "projectdojo-c033f",
+    "storage_bucket": "projectdojo-c033f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040359017926:android:fdbc2463103a1d233b36c7",
+        "android_client_info": {
+          "package_name": "com.example.biometric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040359017926-tkc943ucfttgdhepddab55leqbli62ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vXcWd8fSA0nAE_LtB2WMRBGTFqoej44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040359017926-tkc943ucfttgdhepddab55leqbli62ac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040359017926-mhflf278g3ikkej5u215itudrsgm7ick.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectdojo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040359017926:android:24829e855680b8293b36c7",
+        "android_client_info": {
+          "package_name": "com.example.projectdojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040359017926-81gpn8t8hnc8qplhrhnoufj2ckp6qet2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectdojo",
+            "certificate_hash": "50af2ca335978748a4f5cdc9edffbce85066d6c7"
+          }
+        },
+        {
+          "client_id": "1040359017926-tkc943ucfttgdhepddab55leqbli62ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vXcWd8fSA0nAE_LtB2WMRBGTFqoej44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040359017926-tkc943ucfttgdhepddab55leqbli62ac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040359017926-mhflf278g3ikkej5u215itudrsgm7ick.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectdojo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040359017926:android:905c5465bab5ee993b36c7",
+        "android_client_info": {
+          "package_name": "com.projectdojo.dojofin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040359017926-b3cphr3d920n55e61hpnemdhk5tn40c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projectdojo.dojofin",
+            "certificate_hash": "388722e8049746698b5f82f1ebc6df6bda66951d"
+          }
+        },
+        {
+          "client_id": "1040359017926-tkc943ucfttgdhepddab55leqbli62ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vXcWd8fSA0nAE_LtB2WMRBGTFqoej44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040359017926-tkc943ucfttgdhepddab55leqbli62ac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040359017926-mhflf278g3ikkej5u215itudrsgm7ick.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectdojo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
